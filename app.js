@@ -6,3 +6,10 @@ console.log(name);
 var feature = "is awesome!";
 
 console.log(name + " " + feature);
+
+var song = "Wake me up, before you go go...";
+
+for(var i = 0; i < 4; i++)
+{
+	console.log(song);
+}
