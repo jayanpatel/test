@@ -5,4 +5,4 @@ console.log(name);
 
 var feature = "is awesome!";
 
-console.log(name + " " + feature);
+console.log(name + " " + feature + " She slayed the Vampires!");
